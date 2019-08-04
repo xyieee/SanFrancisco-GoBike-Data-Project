@@ -13,21 +13,21 @@ In explanatory analysis I will integrate the pieces in explorations and leverage
 ## The Data
 
 Each trip is anonymized and includes:
-•	Trip Duration (seconds)
-•	Start Time and Date
-•	End Time and Date
-•	Start Station ID
-•	Start Station Name
-•	Start Station Latitude
-•	Start Station Longitude
-•	End Station ID
-•	End Station Name
-•	End Station Latitude
-•	End Station Longitude
-•	Bike ID
-•	User Type (Subscriber or Customer – “Subscriber” = Member or “Customer” = Casual)
-•	Member Year of Birth
-•	Member Gender
+- Trip Duration (seconds)
+- Start Time and Date
+- End Time and Date
+- Start Station ID
+- Start Station Name
+- Start Station Latitude
+- Start Station Longitude
+- End Station ID
+- End Station Name
+- End Station Latitude
+- End Station Longitude
+- Bike ID
+- User Type (Subscriber or Customer – “Subscriber” = Member or “Customer” = Casual)
+- Member Year of Birth
+- Member Gender
 
 ## Installation
 
@@ -51,10 +51,10 @@ import math
 ```
 
 ## Features
-•	Defining topics and asking questions.
-•	Performing Data Wrangling and Data Cleaning on data set.
-•	Performing Exploratory Data Analysis with visualizations.
-•	Summarizing conclusions and limitations.
+- Defining topics and asking questions.
+- Performing Data Wrangling and Data Cleaning on data set.
+- Performing Exploratory Data Analysis with visualizations.
+- Summarizing conclusions and limitations.
 
 ## Author
 This project was completed by Chloe Xue.
